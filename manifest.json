@@ -1,0 +1,8 @@
+{
+  "name": "Akium Sampler",
+  "version": "1.0.0",
+  "author": "AkiumAI",
+  "description": "Momentum Guided Diffusion sampler for ComfyUI. Adds 'akium' and 'akium_color' to the KSampler dropdown.",
+  "repository": "https://github.com/AkiumAI/akium-sampler-comfy",
+  "license": "CC-BY-4.0"
+}
