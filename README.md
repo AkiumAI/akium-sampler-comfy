@@ -18,7 +18,7 @@ Akium is a second-order stochastic sampler that builds a sense of direction as i
 2. Paste: `https://github.com/AkiumAI/akium-sampler-comfy`
 3. Restart ComfyUI
 
-**Manual:** Download and drop the `comfyui-akium` folder into your `ComfyUI/custom_nodes/` directory, then restart ComfyUI.
+**Manual:** Download and drop the `akium-sampler-comfy` folder into your `ComfyUI/custom_nodes/` directory, then restart ComfyUI.
 
 ### Step 2 — Use it
 
@@ -72,19 +72,25 @@ All comparisons use the same seed, prompt, and the respective recommended settin
 
 ### Anima
 
-**Close-up** [![anima-closeup](assets/anima_closeup.jpg)](assets/anima_closeup.jpg)
+**Close-up** 
+<img width="4256" height="1330" alt="xyz_grid-0015-1" src="https://github.com/user-attachments/assets/0a066505-107c-4932-bcfb-c42aa120a66d" />
 
-**Upper body** [![anima-upper](assets/anima_upper.jpg)](assets/anima_upper.jpg)
+**Upper body** 
+<img width="4256" height="1330" alt="xyz_grid-0010-1" src="https://github.com/user-attachments/assets/7849da02-74de-496c-ad37-cfd27bb2eed4" />
 
-**Full body** [![anima-full](assets/anima_full.jpg)](assets/anima_full.jpg)
+**Full body** 
+<img width="4256" height="1330" alt="xyz_grid-0012-1" src="https://github.com/user-attachments/assets/cb55b574-5abc-41e9-82ed-cfd251bf6325" />
 
 ### Illustrious
 
-**Close-up** [![illustrious-closeup](assets/illustrious_closeup.jpg)](assets/illustrious_closeup.jpg)
+**Close-up**
+<img width="4256" height="1330" alt="xyz_grid-0020-1" src="https://github.com/user-attachments/assets/88627a94-4a5d-4ac5-98b4-f64e75e243df" />
 
-**Upper body** [![illustrious-upper](assets/illustrious_upper.jpg)](assets/illustrious_upper.jpg)
+**Upper body** 
+<img width="4256" height="1330" alt="xyz_grid-0023-1" src="https://github.com/user-attachments/assets/c464c5fb-d36d-4cf3-bc57-8f30d7cd87ff" />
 
-**Full body** [![illustrious-full](assets/illustrious_full.jpg)](assets/illustrious_full.jpg)
+**Full body** 
+<img width="4256" height="1330" alt="xyz_grid-0022-1" src="https://github.com/user-attachments/assets/62f8eca6-0783-491c-91fb-66f4e6b97bf5" />
 
 ---
 
