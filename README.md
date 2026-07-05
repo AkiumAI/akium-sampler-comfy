@@ -1,6 +1,6 @@
-# Akium Sampler (ComfyUI)
+# Akium Sampler (ComfyUI / Forge Neo)
 
-A custom k-diffusion sampler for ComfyUI.
+A custom k-diffusion sampler for ComfyUI and SD WebUI Forge Neo.
 
 Akium is a second-order stochastic sampler that builds a sense of direction as it generates — using that momentum to make smarter decisions at each step. The result is sharper fine details compared to pure SDE samplers like ER-SDE, without losing the creative variety that stochastic sampling is known for.
 
@@ -8,7 +8,7 @@ Akium is a second-order stochastic sampler that builds a sense of direction as i
 
 ---
 
-## Installation
+## Installation (ComfyUI)
 
 ### Step 1 — Add the custom node
 
@@ -27,6 +27,23 @@ After restarting, **akium** and **akium_color** appear automatically in the stan
 Check the console on startup for:
 ```
 [Akium] Registered 'akium' and 'akium_color' in the KSampler dropdown.
+```
+
+---
+
+## Installation (Forge Neo)
+
+The same repository also works as a [Forge Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo) extension:
+
+1. Open **Extensions → Install from URL**
+2. Paste: `https://github.com/AkiumAI/akium-sampler-comfy`
+3. Click **Install**, then restart the WebUI
+
+(Or clone/copy this folder into your `<forge>/extensions/` directory manually.)
+
+After restarting, **Akium** and **Akium Color** appear in the **Sampling method** dropdown. Check the console on startup for:
+```
+[Akium] Registered 'Akium' and 'Akium Color' samplers.
 ```
 
 ---
